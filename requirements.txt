@@ -1,6 +1,6 @@
 Flask==1.1.2
 gunicorn==19.9.0
-tensorflow
+keras
 numpy==1.19.2
 scikit-learn==0.24.1
 pandas==1.2.3
