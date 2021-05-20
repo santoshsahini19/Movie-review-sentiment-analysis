@@ -1,7 +1,6 @@
 #Importing required libraries
-#from tensorflow import keras
+from tensorflow import keras
 import pickle
-import keras
 from keras.preprocessing.sequence import pad_sequences
 from flask import Flask, render_template, request
 
